@@ -28,6 +28,10 @@ public class Soar {
         //Player 2 move with horse h1
         p2.move(h1);
         
+        MyCalculator m = new MyCalculator();
+        System.out.println(m.divisor_sum(6)+"\n");
+        
+        
         
     }
     

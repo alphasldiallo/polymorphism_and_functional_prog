@@ -58,7 +58,7 @@ public abstract class Player {
         return power;
     }
 
-    public void setPower(int power) {
+    void setPower(int power) {
         this.power = power;
     }
     
