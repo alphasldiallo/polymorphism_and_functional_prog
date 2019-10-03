@@ -31,6 +31,7 @@ public class Soar {
         MyCalculator m = new MyCalculator();
         System.out.println(m.divisor_sum(6)+"\n");
         
+        //test
         
         
     }
